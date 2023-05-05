@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1613163084 source:c:\users\henry wemmer\documents\projectos tad\projecto final grupo-3\projeto finaltad\estilo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"Estilo.h"
+
+1613150704 c:\users\henry wemmer\documents\projectos tad\projecto final grupo-3\projeto finaltad\estilo.h
+
+1613162822 source:c:\users\henry wemmer\documents\projectos tad\projecto final grupo-3\projeto finaltad\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"Fila.h"
+
+1613638262 c:\users\henry wemmer\documents\projectos tad\projecto final grupo-3\projeto finaltad\fila.h
+
+1613557493 source:c:\users\henry wemmer\documents\projectos tad\projecto final grupo-3\projeto finaltad\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	"Fila.h"
+	"Estilo.h"
+
